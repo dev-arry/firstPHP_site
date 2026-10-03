@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&display=swap');
+
+body{
+    background-image: url("matrix.gif");
+    background-color: gray;
+}
+
+.introduction-box {
+    font-family: "Bitcount Ink";
+    font-style: normal;
+    font-weight: 400;
+    background-color: salmon;
+    margin: 0px 0px 10px 0px;
+    padding:10px 10px;
+    border-radius: 10px;
+}
+
+.title {
+    color: white;
+    font-family: "Bitcount Ink";
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 50px ;
+}
+
+.introduction {
+    font-size: 25px;
+    padding: 0px 0px;
+}
+
+.introduction-text {
+    padding: 0x 0px ;
+    margin: 0px 0px 0px 0px;
+
+}
+
+.interests-box{
+    font-family: "Bitcount Ink";
+    font-style: normal;
+    font-weight: 400;
+    padding: 10px 10px;
+    margin: 0 0 10px 0;
+    background-color: salmon;   
+    border-radius: 10px;
+}
+
+.interests {
+    font-size: 25px;;
+}
+
+.game-button {
+    font-family: "Bitcount Ink";
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 0px;
+}
+
+.animation-button {
+    font-family: "Bitcount Ink";
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 0px;
+}
+
+.progress {
+    font-family: "Bitcount Ink";
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 0px;
+}
